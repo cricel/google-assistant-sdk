@@ -1,7 +1,7 @@
 # google-assistant-sdk
 
 ## Setup
-### Setup google assistant
+### Setup google assistant (Use Python2.7)
 please follow the tutorial ```Embed the Google Assistant``` on this link to setup, you **dont** need to do ```Extend the Google Assistant```
 
 when it require you to install python in virtual environment, **DONT**, otherwise you will need to install **ROS** relate package in it as well to make it work.
