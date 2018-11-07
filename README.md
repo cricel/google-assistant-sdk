@@ -28,3 +28,4 @@ Run your modified source code directly to see the output.
 https://developers.google.com/assistant/sdk/reference/library/python/
 
 ### Check the example code provided in this git repository on how to use ROS with google assistant
+https://github.com/cricel/google-assistant-sdk/blob/d8de5cc154a68eef19aa0cd5bcc1cda290464f68/hotword.py#L68
